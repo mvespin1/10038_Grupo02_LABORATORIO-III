@@ -1,0 +1,573 @@
+    {
+        "OFC": [
+            {
+                "sello": "../img/sello-ofc.jpg",
+                "maxPaises": 123,
+                "continentes": {
+                    "oceania": {
+                        "nombre": "Oceanía",
+                        "numPaises": 3,
+                        "paises": [
+                            {
+                                "nombre": "Australia",
+                                "platosTipicos": [
+                                    {
+                                        "nombre": "Hangi",
+                                        "imagen": "./IMG/plato1australia.jpg"
+                                    },
+                                    {
+                                        "nombre": "Asado de Hogget",
+                                        "imagen": "./IMG/plato2australia.jpg"
+                                    },
+                                    {
+                                        "nombre": "Whitebait Fritter",
+                                        "imagen": "./IMG/plato3australia.jpg"
+                                    },
+                                    {
+                                        "nombre": "Fish and Chips",
+                                        "imagen": "./IMG/WeetBix.jpg"
+                                    }
+                                ],
+                                "moneda": "Dólar Australiano",
+                                "bandera": "./IMG/banderaAustralia.jpg",
+                                "provincias": [
+                                    {
+                                        "nombre": "Victoria",
+                                        "ciudades": [
+                                            {
+                                                "nombre": "Melbourne",
+                                                "codigoPostal": "3000"
+                                            },
+                                            {
+                                                "nombre": "Geelong",
+                                                "codigoPostal": "3220"
+                                            },
+                                            {
+                                                "nombre": "Ballarat",
+                                                "codigoPostal": "3350"
+                                            },
+                                            {
+                                                "nombre": "Bendigo",
+                                                "codigoPostal": "3550"
+                                            },
+                                            {
+                                                "nombre": "Mornington",
+                                                "codigoPostal": "3931"
+                                            },
+                                            {
+                                                "nombre": "Frankston",
+                                                "codigoPostal": "3199"
+                                            },
+                                            {
+                                                "nombre": "Shepparton",
+                                                "codigoPostal": "3630"
+                                            },
+                                            {
+                                                "nombre": "Melton",
+                                                "codigoPostal": "3337"
+                                            },
+                                            {
+                                                "nombre": "Mildura",
+                                                "codigoPostal": "3500"
+                                            },
+                                            {
+                                                "nombre": "Warrnambool",
+                                                "codigoPostal": "3280"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "nombre": "Nueva Gales del Sur",
+                                        "ciudades": [
+                                            {
+                                                "nombre": "Sídney",
+                                                "codigoPostal": "2000"
+                                            },
+                                            {
+                                                "nombre": "Newcastle",
+                                                "codigoPostal": "2300"
+                                            },
+                                            {
+                                                "nombre": "Wollongong",
+                                                "codigoPostal": "2500"
+                                            },
+                                            {
+                                                "nombre": "Central Coast",
+                                                "codigoPostal": "2250"
+                                            },
+                                            {
+                                                "nombre": "Blue Mountains",
+                                                "codigoPostal": "2780"
+                                            },
+                                            {
+                                                "nombre": "Tweed Heads",
+                                                "codigoPostal": "2485"
+                                            },
+                                            {
+                                                "nombre": "Coffs Harbour",
+                                                "codigoPostal": "2450"
+                                            },
+                                            {
+                                                "nombre": "Wagga Wagga",
+                                                "codigoPostal": "2650"
+                                            },
+                                            {
+                                                "nombre": "Albury",
+                                                "codigoPostal": "2640"
+                                            },
+                                            {
+                                                "nombre": "Tamworth",
+                                                "codigoPostal": "2340"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "nombre": "Queensland",
+                                        "ciudades": [
+                                            {
+                                                "nombre": "Brisbane",
+                                                "codigoPostal": "4000"
+                                            },
+                                            {
+                                                "nombre": "Gold Coast",
+                                                "codigoPostal": "4217"
+                                            },
+                                            {
+                                                "nombre": "Sunshine Coast",
+                                                "codigoPostal": "4551"
+                                            },
+                                            {
+                                                "nombre": "Townsville",
+                                                "codigoPostal": "4810"
+                                            },
+                                            {
+                                                "nombre": "Cairns",
+                                                "codigoPostal": "4870"
+                                            },
+                                            {
+                                                "nombre": "Toowoomba",
+                                                "codigoPostal": "4350"
+                                            },
+                                            {
+                                                "nombre": "Mackay",
+                                                "codigoPostal": "4740"
+                                            },
+                                            {
+                                                "nombre": "Rockhampton",
+                                                "codigoPostal": "4700"
+                                            },
+                                            {
+                                                "nombre": "Bundaberg",
+                                                "codigoPostal": "4670"
+                                            },
+                                            {
+                                                "nombre": "Hervey Bay",
+                                                "codigoPostal": "4655"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "nombre": "Australia del Sur",
+                                        "ciudades": [
+                                            {
+                                                "nombre": "Adelaida",
+                                                "codigoPostal": "5000"
+                                            },
+                                            {
+                                                "nombre": "Mount Gambier",
+                                                "codigoPostal": "5290"
+                                            },
+                                            {
+                                                "nombre": "Gawler",
+                                                "codigoPostal": "5118"
+                                            },
+                                            {
+                                                "nombre": "Whyalla",
+                                                "codigoPostal": "5600"
+                                            },
+                                            {
+                                                "nombre": "Murray Bridge",
+                                                "codigoPostal": "5253"
+                                            },
+                                            {
+                                                "nombre": "Port Lincoln",
+                                                "codigoPostal": "5606"
+                                            },
+                                            {
+                                                "nombre": "Port Pirie",
+                                                "codigoPostal": "5540"
+                                            },
+                                            {
+                                                "nombre": "Victor Harbor",
+                                                "codigoPostal": "5211"
+                                            },
+                                            {
+                                                "nombre": "Port Augusta",
+                                                "codigoPostal": "5700"
+                                            },
+                                            {
+                                                "nombre": "Renmark",
+                                                "codigoPostal": "5341"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "nombre": "Australia Occidental",
+                                        "ciudades": [
+                                            {
+                                                "nombre": "Perth",
+                                                "codigoPostal": "6000"
+                                            },
+                                            {
+                                                "nombre": "Mandurah",
+                                                "codigoPostal": "6210"
+                                            },
+                                            {
+                                                "nombre": "Bunbury",
+                                                "codigoPostal": "6230"
+                                            },
+                                            {
+                                                "nombre": "Kalgoorlie",
+                                                "codigoPostal": "6430"
+                                            },
+                                            {
+                                                "nombre": "Geraldton",
+                                                "codigoPostal": "6530"
+                                            },
+                                            {
+                                                "nombre": "Albany",
+                                                "codigoPostal": "6330"
+                                            },
+                                            {
+                                                "nombre": "Karratha",
+                                                "codigoPostal": "6714"
+                                            },
+                                            {
+                                                "nombre": "Broome",
+                                                "codigoPostal": "6725"
+                                            },
+                                            {
+                                                "nombre": "Esperance",
+                                                "codigoPostal": "6450"
+                                            },
+                                            {
+                                                "nombre": "Port Hedland",
+                                                "codigoPostal": "6721"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "nombre": "Tasmania",
+                                        "ciudades": [
+                                            {
+                                                "nombre": "Hobart",
+                                                "codigoPostal": "7000"
+                                            },
+                                            {
+                                                "nombre": "Launceston",
+                                                "codigoPostal": "7250"
+                                            },
+                                            {
+                                                "nombre": "Devonport",
+                                                "codigoPostal": "7310"
+                                            },
+                                            {
+                                                "nombre": "Burnie",
+                                                "codigoPostal": "7320"
+                                            },
+                                            {
+                                                "nombre": "Clarence",
+                                                "codigoPostal": "7010"
+                                            },
+                                            {
+                                                "nombre": "Glenorchy",
+                                                "codigoPostal": "7010"
+                                            },
+                                            {
+                                                "nombre": "Kingston",
+                                                "codigoPostal": "7050"
+                                            },
+                                            {
+                                                "nombre": "Ulverstone",
+                                                "codigoPostal": "7315"
+                                            },
+                                            {
+                                                "nombre": "New Norfolk",
+                                                "codigoPostal": "7140"
+                                            },
+                                            {
+                                                "nombre": "Wynyard",
+                                                "codigoPostal": "7325"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "nombre": "Territorio del Norte",
+                                        "ciudades": [
+                                            {
+                                                "nombre": "Darwin",
+                                                "codigoPostal": "0800"
+                                            },
+                                            {
+                                                "nombre": "Palmerston",
+                                                "codigoPostal": "0830"
+                                            },
+                                            {
+                                                "nombre": "Alice Springs",
+                                                "codigoPostal": "0870"
+                                            },
+                                            {
+                                                "nombre": "Katherine",
+                                                "codigoPostal": "0850"
+                                            },
+                                            {
+                                                "nombre": "Nhulunbuy",
+                                                "codigoPostal": "0880"
+                                            },
+                                            {
+                                                "nombre": "Tennant Creek",
+                                                "codigoPostal": "0860"
+                                            },
+                                            {
+                                                "nombre": "Yulara",
+                                                "codigoPostal": "0872"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "nombre": "Territorio de la Capital Australiana",
+                                        "ciudades": [
+                                            {
+                                                "nombre": "Canberra",
+                                                "codigoPostal": "2600"
+                                            },
+                                            {
+                                                "nombre": "Belconnen",
+                                                "codigoPostal": "2617"
+                                            },
+                                            {
+                                                "nombre": "Tuggeranong",
+                                                "codigoPostal": "2900"
+                                            },
+                                            {
+                                                "nombre": "Gungahlin",
+                                                "codigoPostal": "2912"
+                                            },
+                                            {
+                                                "nombre": "Queanbeyan",
+                                                "codigoPostal": "2620"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "nombre": "Nueva Zelanda",
+                                "platosTipicos": [
+                                    {
+                                        "nombre": "Hangi",
+                                        "imagen": "./IMG/Hangi.jpg"
+                                    },
+                                    {
+                                        "nombre": "Asado de Hogget",
+                                        "imagen": "./IMG/AsadoHogget.jpg"
+                                    },
+                                    {
+                                        "nombre": "Whitebait Fritter",
+                                        "imagen": "./IMG/WhitebaitFritter.jpg"
+                                    },
+                                    {
+                                        "nombre": "Fish and Chips",
+                                        "imagen": "./IMG/FishandChips.jpg"
+                                    }
+                                ],                            
+                                "moneda": "Dólar Neozelandés",
+                                "bandera": "./IMG/banderaNuevaZelanda.jpg",
+                                "provincias": [
+                                    {
+                                        "nombre": "North Island",
+                                        "ciudades": [
+                                            {
+                                                "nombre": "Auckland",
+                                                "codigoPostal": "1010"
+                                            },
+                                            {
+                                                "nombre": "Waikato",
+                                                "codigoPostal": "2001"
+                                            },
+                                            {
+                                                "nombre": "Bay of Plenty",
+                                                "codigoPostal": "3001"
+                                            },
+                                            {
+                                                "nombre": "Gisborne",
+                                                "codigoPostal": "4001"
+                                            },
+                                            {
+                                                "nombre": "Hawkes Bay",
+                                                "codigoPostal": "5001"
+                                            },
+                                            {
+                                                "nombre": "Taranaki",
+                                                "codigoPostal": "6001"
+                                            },
+                                            {
+                                                "nombre": "Manawatū-Whanganui",
+                                                "codigoPostal": "7001"
+                                            },
+                                            {
+                                                "nombre": "Wellington",
+                                                "codigoPostal": "8001"
+                                            },
+                                            {
+                                                "nombre": "Wairarapa",
+                                                "codigoPostal": "9001"
+                                            },
+                                            {
+                                                "nombre": "Nelson",
+                                                "codigoPostal": "10001"
+                                            },
+                                            {
+                                                "nombre": "Marlborough",
+                                                "codigoPostal": "11001"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "nombre": "South Island",
+                                        "ciudades": [
+                                            {
+                                                "nombre": "West Coast",
+                                                "codigoPostal": "12001"
+                                            },
+                                            {
+                                                "nombre": "Canterbury",
+                                                "codigoPostal": "13001"
+                                            },
+                                            {
+                                                "nombre": "Otago",
+                                                "codigoPostal": "14001"
+                                            },
+                                            {
+                                                "nombre": "Southland",
+                                                "codigoPostal": "15001"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "nombre": "Fiji",
+                                "platosTipicos": [
+                                    {
+                                        "nombre": "Hangi",
+                                        "imagen": "./IMG/FijiPlato1.jpg"
+                                    },
+                                    {
+                                        "nombre": "Asado de Hogget",
+                                        "imagen": "./IMG/FijiPlato2.jpg"
+                                    },
+                                    {
+                                        "nombre": "Whitebait Fritter",
+                                        "imagen": "./IMG/FijiPlato3.jpg"
+                                    },
+                                    {
+                                        "nombre": "Fish and Chips",
+                                        "imagen": "./IMG/FijiPlato4.jpg"
+                                    }
+                                ],  
+                                "moneda": "Dólar fiyianos",
+                                "bandera": "./IMG/banderaFiji.jpg",
+                                "provincias": [
+                                        {
+                                            "nombre": "Centro",
+                                            "ciudades": [
+                                                {
+                                                    "nombre": "Suva",
+                                                    "codigoPostal": "1918"
+                                                },
+                                                {
+                                                    "nombre": "Nausori",
+                                                    "codigoPostal": "1918"
+                                                },
+                                                {
+                                                    "nombre": "Navua",
+                                                    "codigoPostal": "1918"
+                                                },
+                                                {
+                                                    "nombre": "Sigatoka",
+                                                    "codigoPostal": "1918"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Oriental",
+                                            "ciudades": [
+                                                {
+                                                    "nombre": "Levuka",
+                                                    "codigoPostal": "1918"
+                                                },
+                                                {
+                                                    "nombre": "Ovalau",
+                                                    "codigoPostal": "1918"
+                                                },
+                                                {
+                                                    "nombre": "Taveuni",
+                                                    "codigoPostal": "1918"
+                                                },
+                                                {
+                                                    "nombre": "Kadavu",
+                                                    "codigoPostal": "1918"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Occidental",
+                                            "ciudades": [
+                                                {
+                                                    "nombre": "Nadi",
+                                                    "codigoPostal": "1918"
+                                                },
+                                                {
+                                                    "nombre": "Lautoka",
+                                                    "codigoPostal": "1918"
+                                                },
+                                                {
+                                                    "nombre": "Ba",
+                                                    "codigoPostal": "1918"
+                                                },
+                                                {
+                                                    "nombre": "Sigatoka",
+                                                    "codigoPostal": "1918"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Norte",
+                                            "ciudades": [
+                                                {
+                                                    "nombre": "Labasa",
+                                                    "codigoPostal": "1918"
+                                                },
+                                                {
+                                                    "nombre": "Savusavu",
+                                                    "codigoPostal": "1918"
+                                                },
+                                                {
+                                                    "nombre": "Somosomo",
+                                                    "codigoPostal": "1918"
+                                                },
+                                                {
+                                                    "nombre": "Nabouwalu",
+                                                    "codigoPostal": "1918"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+        ]
+    }
